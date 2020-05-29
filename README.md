@@ -1,0 +1,2 @@
+# python_CreateDatabase
+根据微博评论以及对于的情感分数建立数据库
